@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+.container1{
+    background-color: #3b5998;
+    color:white;
+     height: 150px; 
+    
+    }
+.item11{
+    font-size: 35px; 
+    display: flex;
+    justify-content: center;
+}
+.item12{
+display: flex;
+flex-direction: row-reverse;
+font-size: 22px;
+
+}
+.giris{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.container2{
+    background-color:gainsboro;
+    height: 550px;
+    display: flex;
+    flex-direction: initial;
+}
+.hesap{
+    font-size: 25px;
+    font-weight: bold;
+}
+.dd{
+    font-size: 19px;
+}
+.container3{
+    height: 100px;
+}
